@@ -17,9 +17,7 @@ I enjoy building intelligent applications, exploring data, and solving real-worl
 **Programming Languages**
 - Python
 - C++
-- Java
 - JavaScript
-- PHP
 - SQL
 
 **AI & Machine Learning**
@@ -32,8 +30,6 @@ I enjoy building intelligent applications, exploring data, and solving real-worl
 - MediaPipe
 - Scikit-learn
 - LangChain
-- LangGraph
-- Sentence Transformers
 
 **Data Analytics**
 - Data Analysis
@@ -46,23 +42,19 @@ I enjoy building intelligent applications, exploring data, and solving real-worl
 
 **Backend Development**
 - FastAPI
-- Flask
-- Django
-- REST API Development
 - SQLAlchemy
 
 **Databases**
 - MySQL
 - MongoDB
-- SQLite
+- Oracle
 
 **Tools & Platforms**
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
-- Postman
-- XAMPP
+- Google Colab
 
 ---
 
